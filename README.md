@@ -1,3 +1,9 @@
+> [!WARNING]
+> **This gem is deprecated and no longer maintained.**
+> Please migrate to the new KOMOJU Ruby SDK: [komoju-sdk](https://github.com/komoju/komoju-ruby-sdk)
+
+---
+
 # Komoju
 
 [Komoju](https://komoju.com) API Ruby Bindings

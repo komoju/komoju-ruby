@@ -1,3 +1,8 @@
+warn(
+  "[DEPRECATED] The 'komoju' gem is deprecated and no longer maintained. " \
+  "Please migrate to the new KOMOJU Ruby SDK: komoju-sdk (https://github.com/komoju/komoju-ruby-sdk)",
+  uplevel: 1
+)
 require 'komoju/version'
 require 'komoju/client'
 require 'moneta'
